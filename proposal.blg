@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: proposal.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+The style file: acl_natbib.bst
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: bibliography.bib
+Database file #2: custom.bib
+Repeated entry---line 67 of file custom.bib
+ : @inproceedings{serban2016building
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 360 of file custom.bib
+ : @inproceedings{bao2020plato
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 367 of file custom.bib
+ : @inproceedings{zhang2020dialogpt
+ :                                 ,
+I'm skipping whatever remains of this entry
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Warning--can't use both volume and number fields in serban2016building
+You've used 15 entries,
+            3571 wiz_defined-function locations,
+            765 strings with 8992 characters,
+and the built_in function-call counts, 12124 in all, are:
+= -- 932
+> -- 821
+< -- 4
++ -- 269
+- -- 246
+* -- 860
+:= -- 1856
+add.period$ -- 60
+call.type$ -- 15
+change.case$ -- 171
+chr.to.int$ -- 15
+cite$ -- 16
+duplicate$ -- 814
+empty$ -- 757
+format.name$ -- 291
+if$ -- 2559
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 177
+newline$ -- 79
+num.names$ -- 60
+pop$ -- 431
+preamble$ -- 1
+purify$ -- 142
+quote$ -- 0
+skip$ -- 497
+stack$ -- 0
+substring$ -- 285
+swap$ -- 382
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 135
+warning$ -- 1
+while$ -- 54
+width$ -- 0
+write$ -- 188
+(There were 3 error messages)

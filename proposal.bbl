@@ -1,0 +1,113 @@
+\begin{thebibliography}{15}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bao et~al.(2020)Bao, He, Wang, Wu, Wang, Wu, Guo, Liu, and
+  Xu}]{bao2020plato}
+Siqi Bao, Huang He, Fan Wang, Hua Wu, Haifeng Wang, Wenquan Wu, Zhen Guo,
+  Zhibin Liu, and Xinchao Xu. 2020.
+\newblock Plato-2: Towards building an open-domain chatbot via curriculum
+  learning.
+\newblock \emph{arXiv preprint arXiv:2006.16779}.
+
+\bibitem[{Ghazvininejad et~al.(2018)Ghazvininejad, Brockett, Chang, Dolan, Gao,
+  Yih, and Galley}]{ghazvininejad2018knowledge}
+Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao,
+  Wen-tau Yih, and Michel Galley. 2018.
+\newblock A knowledge-grounded neural conversation model.
+\newblock In \emph{AAAI}.
+
+\bibitem[{Henderson et~al.(2014)Henderson, Thomson, and
+  Young}]{henderson2014word}
+Matthew Henderson, Blaise Thomson, and Steve Young. 2014.
+\newblock Word-based dialog state tracking with recurrent neural networks.
+\newblock In \emph{Proceedings of the 15th Annual Meeting of the Special
+  Interest Group on Discourse and Dialogue (SIGDIAL)}, pages 292--299.
+
+\bibitem[{Lewis et~al.(2020)Lewis, Liu, Goyal, Ghazvininejad, Mohamed, Levy,
+  Stoyanov, and Zettlemoyer}]{lewis2020bart}
+Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed,
+  Omer Levy, Veselin Stoyanov, and Luke Zettlemoyer. 2020.
+\newblock Bart: Denoising sequence-to-sequence pre-training for natural
+  language generation, translation, and comprehension.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics}, pages 7871--7880.
+
+\bibitem[{Liu et~al.(2021)Liu, Feng, Wang, Song, Ren, and Zhang}]{liu2021graph}
+Yongkang Liu, Shi Feng, Daling Wang, Kaisong Song, Feiliang Ren, and Yifei
+  Zhang. 2021.
+\newblock A graph reasoning network for multi-turn response selection via
+  customized pre-training.
+\newblock In \emph{AAAI}.
+
+\bibitem[{Luo et~al.(2018)Luo, Xu, Lin, Zeng, and Sun}]{luo2018auto}
+Liangchen Luo, Jingjing Xu, Junyang Lin, Qi~Zeng, and Xu~Sun. 2018.
+\newblock An auto-encoder matching model for learning utterance-level semantic
+  dependency in dialogue generation.
+\newblock \emph{arXiv preprint arXiv:1808.08795}.
+
+\bibitem[{Santra et~al.(2020)Santra, Anusha, and
+  Goyal}]{santra2020hierarchical}
+Bishal Santra, Potnuru Anusha, and Pawan Goyal. 2020.
+\newblock Hierarchical transformer for task oriented dialog systems.
+\newblock \emph{arXiv preprint arXiv:2011.08067}.
+
+\bibitem[{Serban et~al.(2016)Serban, Sordoni, Bengio, Courville, and
+  Pineau}]{serban2016building}
+Iulian Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville, and Joelle
+  Pineau. 2016.
+\newblock Building end-to-end dialogue systems using generative hierarchical
+  neural network models.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~30.
+
+\bibitem[{Shang et~al.(2015)Shang, Lu, and Li}]{shang2015neural}
+Lifeng Shang, Zhengdong Lu, and Hang Li. 2015.
+\newblock Neural responding machine for short-text conversation.
+\newblock \emph{arXiv preprint arXiv:1503.02364}.
+
+\bibitem[{Song et~al.(2021)Song, Wang, Zhang, Zhang, and Liu}]{song2021bob}
+Haoyu Song, Yan Wang, Kaiyan Zhang, Wei-Nan Zhang, and Ting Liu. 2021.
+\newblock Bob: Bert over bert for training persona-based dialogue models from
+  limited personalized data.
+\newblock \emph{arXiv preprint arXiv:2106.06169}.
+
+\bibitem[{Sutskever et~al.(2014)Sutskever, Vinyals, and
+  Le}]{sutskever2014sequence}
+Ilya Sutskever, Oriol Vinyals, and Quoc~V Le. 2014.
+\newblock Sequence to sequence learning with neural networks.
+\newblock \emph{Advances in neural information processing systems}, 27.
+
+\bibitem[{Yang et~al.(2022)Yang, Zhang, Erfani, and
+  Lau}]{yang2022interpretable}
+Shiquan Yang, Rui Zhang, Sarah Erfani, and Jey~Han Lau. 2022.
+\newblock An interpretable neuro-symbolic reasoning framework for task-oriented
+  dialogue generation.
+\newblock \emph{arXiv preprint arXiv:2203.05843}.
+
+\bibitem[{Zhan et~al.(2021)Zhan, Zhang, Chen, Ding, Bao, and
+  Lan}]{zhan2021augmenting}
+Haolan Zhan, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Yongjun Bao, and Yanyan
+  Lan. 2021.
+\newblock Augmenting knowledge-grounded conversations with sequential knowledge
+  transition.
+\newblock In \emph{Proceedings of the 2021 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 5621--5630.
+
+\bibitem[{Zhang et~al.(2020)Zhang, Sun, Galley, Chen, Brockett, Gao, Gao, Liu,
+  and Dolan}]{zhang2020dialogpt}
+Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao,
+  Jianfeng Gao, Jingjing Liu, and Bill Dolan. 2020.
+\newblock Dialogpt: Large-scale generative pre-training for conversational
+  response generation.
+\newblock In \emph{ACL (demo)}.
+
+\bibitem[{Zhu et~al.(2017)Zhu, Mo, Zhang, Zhu, Peng, and
+  Yang}]{zhu2017flexible}
+Wenya Zhu, Kaixiang Mo, Yu~Zhang, Zhangbin Zhu, Xuezheng Peng, and Qiang Yang.
+  2017.
+\newblock Flexible end-to-end dialogue system for knowledge grounded
+  conversation.
+\newblock \emph{arXiv preprint arXiv:1709.04264}.
+
+\end{thebibliography}

@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Persona Characterization and Variation1}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Background and Motivation}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Research Purpose}{1}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Methodology}{1}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Persona Characterization and Variation2}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Background and Motivation}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Research Purpose}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Methodology}{2}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Persona Characterization and Variation3}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Background and Motivation}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Research Purpose}{2}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Methodology}{3}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Persona Characterization and Variation4}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Background and Motivation}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Research Purpose}{3}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Methodology}{3}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Persona Characterization and Variation5}{3}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Background and Motivation}{3}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Research Purpose}{4}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Methodology}{4}{subsection.6.3}%
